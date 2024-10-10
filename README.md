@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuria</h1>
 <h3 align="center">I'm a full-stack developer with a growing passion for cybersecurity. I enjoy building web applications that are not only functional but also secure.</h3>
-<img src="https://github.com/NurFer13/Profile/blob/main/header.png">
+<img src="https://github.com/NurFer13/NurFer13/blob/main/header.png">
 
 - 👩🏼‍💻 I’m currently working on **a comprehensive website and portfolio for an architecture firm**
 
