@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **projects that leverage AI, as I believe it offers exciting opportunities for innovation and growth.👽**
 
-- 🤝 I’m looking for help with **to understand DSA😬**
+- 🤝 I’m looking for help **to understand DSA😬**
 
 - 👁️ You can find out more about me in my Linkedin [https://www.linkedin.com/in/nuria-fernandezfdz/](https://www.linkedin.com/in/nuria-fernandezfdz/)
 
